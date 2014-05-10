@@ -1,7 +1,4 @@
-file<-"/Users/clementcaylux/Documents/Coursera Classes/Data_Science/ExploData/ExData_Plotting1/household_power_consumption.txt"
-
-## possibility to use a shorter file for development purposes, please comment 
-##the following line if you want to use the whole data
+## We use a shorter file for development purposes, you can access it in the git repo
 file<-("/Users/clementcaylux/Documents/Coursera Classes/Data_Science/ExploData/ExData_Plotting1/household_power_consumption_feb_2007.txt")
 
 ## read the data
